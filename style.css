@@ -1,0 +1,33 @@
+body{
+    background-color:forestgreen;
+    color: rgb(27, 27, 18);
+}
+
+nav{
+    height: 7000px;
+    width: 100px;
+    float: left;
+    padding: 5px;
+    line-height: 30px;
+}
+
+footer{
+    text-align: center;
+    margin-right: 200px;
+}
+
+#memeImage{
+    margin-right: 200px;
+    text-align: center;
+}
+
+header{
+    text-align: center;    
+}
+
+.lgbutton{
+    width: 200 px;
+    height: 30 px;
+    background-color: greenyellow;
+    border-radius: 10px;
+}
